@@ -1,0 +1,24 @@
+Implementation Details:
+1.	As I have used vaderSentiment because it is sentiment analysis tool for expressing sentiments.
+2.	Imported Libraries
+3.	Classifier using
+4.	Uploading files that have been downloaded from Investing.com
+5.	Store Data into variables
+6.	Get data into proper shape (metrics)
+7.	Merging data set on the data field
+8.	Testing merging data
+9.	Combining all headlines
+10.	Cleaning data by removing extra commas and semi-colon
+11.	Adding clean data of headlines to the merge data set
+12.	Creating function to get the subjectivity
+13.	Another function for Polarity
+14.	Adding two new columns for both above created functions
+15.	Creating another function to get scores on daily basis
+16.	Storing Sentiment scores 
+17.	Create a list of columns that are necessary for further work
+18.	Creating feature data set
+19.	Slitting data into 85% Training and 20% for testing
+20.	Creating and training model using classifier
+21.	Displaying model predictions
+22.	Showing final model metrics 
+23.	Showing Graphs
